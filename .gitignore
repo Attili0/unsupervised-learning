@@ -1,0 +1,19 @@
+# Ignorar arquivos Markdown de planejamento/rascunho, mantendo o README.md
+*.md
+!README.md
+
+# Ambiente virtual e caches Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados baixados automaticamente
+data/
+
+# Sistema
+.DS_Store
+

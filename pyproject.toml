@@ -1,7 +1,7 @@
 [project]
-name = "mc847-unsupervised-assignment"
+name = "movielens-latent-spaces"
 version = "0.1.0"
-description = "Trabalho Final de Aprendizado Não Supervisionado — MC847 (UNICAMP)"
+description = "Exploratory study on sparse matrix completion, probabilistic latent variable models, and latent space geometry for collaborative filtering."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
@@ -20,4 +20,3 @@ dependencies = [
 dev = [
     "jupyterlab>=4.1.0",
 ]
-
